@@ -11,16 +11,16 @@ blog: True
 lang: en
 
 # Search engine optimization settings
-title: Grape Academic Theme
+title: Aleksandra Landowska Website
 tagline: A jekyll theme for academic portfolios
-description: The demonstration page for the Grape Academic Theme, a jekyll theme for academic portfolios based on the Grape Theme.
-author: Christoph Jabs (chrjabs)
+description: tutaj napisz o sobie cos fajnego 
+author: Aleksandra Landowska
 twitter:
   username: chrjabs
   card: A jekyll theme for academic portfolios
 logo: /assets/img/smile.png
 social:
-  name: Christoph Jabs
+  name: Aleksandra Landowksa
   links:
     - https://twitter.com/chrjabs
     - https://github.com/chrjabs
