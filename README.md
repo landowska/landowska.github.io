@@ -1,4 +1,4 @@
-# About mne
+# About me
 ## Bio
 ## Publications
 # UX Projects
